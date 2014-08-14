@@ -1,5 +1,17 @@
 <table>
     <tr>
+        <td>&amp;amp;</td>
+        <td>&amp;</td>
+    </tr>
+    <tr>
+        <td>&amp;gt;</td>
+        <td>&gt;</td>
+    </tr>
+    <tr>
+        <td>&amp;lt;</td>
+        <td>&lt;</td>
+    </tr>
+    <tr>
         <td>&amp;mdash;</td>
         <td>&mdash;</td>
     </tr>
