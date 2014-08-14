@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <td>&amp;mdash;</td>
+        <td>&mdash;</td>
+    </tr>
+    <tr>
+        <td>&amp;minus;</td>
+        <td>&minus;</td>
+    </tr>
+    <tr>
+        <td>&amp;ndash;</td>
+        <td>&ndash;</td>
+    </tr>
+    <tr>
+        <td>&amp;times;</td>
+        <td>&times;</td>
+    </tr>
+</table>
